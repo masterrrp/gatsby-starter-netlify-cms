@@ -6,7 +6,9 @@ description: "Let's unpack what makes GitOps, Gitops... "
 featuredpost: true
 featuredimage: /img/2020_gitops_kubernetes_featured_articleb.png
 tags:
-  - gitops charli kubernetes
+  - gitops
+  - charli
+  - kubernetes
 ---
 ![](/img/2020_gitops_kubernetes_featured_articleb.png)
 

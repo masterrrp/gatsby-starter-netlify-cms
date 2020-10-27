@@ -4,7 +4,7 @@ title: What is GitOps?
 date: 2020-10-27T17:53:02.950Z
 description: "Let's unpack what makes GitOps, Gitops... "
 featuredpost: true
-featuredimage: /img/external-content.duckduckgo.com.png
+featuredimage: /img/2020_gitops_kubernetes_featured_articleb.png
 tags:
   - gitops charli kubernetes
 ---
